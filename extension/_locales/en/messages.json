@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Playback Button",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Adds a button for Playback.app to YouTube",
+    "description": "The description of the application"
+  }
+}

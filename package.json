@@ -1,0 +1,18 @@
+{
+  "name": "playback-chrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify -t brfs contentscript-src.js -o extension/scripts/contentscript.js"
+  },
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "brfs": "^1.4.0",
+    "browserify": "^9.0.8"
+  },
+  "dependencies": {
+    "new-element": "0.0.2"
+  }
+}
