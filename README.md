@@ -1,8 +1,8 @@
 # playback-chrome
 
-adds a button to youtube videos to 'play in playback' --  the green arrow in the screenshot below
+chrome extension that adds a button to youtube videos to 'play in playback'
 
-![screenshot](screenshot.png)
+![gif](playback-chrome.gif)
 
 ## install
 
