@@ -6,6 +6,10 @@ chrome extension that adds a button to youtube videos to 'play in playback'
 
 ## install
 
+[https://chrome.google.com/webstore/detail/jibgihafbnobhcaankccoekndbilehmc](https://chrome.google.com/webstore/detail/jibgihafbnobhcaankccoekndbilehmc)
+
+## building locally
+
 - clone this
 - run `npm install`
 - run `npm run build`
