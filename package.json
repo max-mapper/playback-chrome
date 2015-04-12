@@ -10,7 +10,8 @@
   "license": "BSD",
   "devDependencies": {
     "brfs": "^1.4.0",
-    "browserify": "^9.0.8"
+    "browserify": "^9.0.8",
+    "domready": "^1.0.7"
   },
   "dependencies": {
     "new-element": "0.0.2"
